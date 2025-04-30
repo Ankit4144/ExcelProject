@@ -1,21 +1,10 @@
-# ExcelProject
+#PowerBi Project
 
-This project aims to analyze customer demographics, transactions, and new customer data to provide insights into business
-performance and customer behavior. The project consists of six tasks that involve data cleaning, data analysis, and visualization using
+Airline Data Management and Analysis Using Power BI
+
+Business Problem:
+Your company wants to perform an in-depth analysis of the employees and departments within the organization to
+improve HR processes and departmental efficiency. The analysis will help in understanding the distribution of employees
+across departments, identifying salary patterns, and facilitating better data management. You have been provided with two
+datasets: Employees and Departments. Your task is to perform various data analysis and management activities using
 Excel.
-
-Task 1: Data Cleaning:
-Objective: Prepare the datasets for analysis by cleaning and correcting any inconsistencies.
-
-Task 2: Customer Segmentation:
-Objective: Segment customers based on demographic and transaction data to identify key customer groups.
-
-Task 3: Transaction Analysis 
-Objective: Analyze transaction data to identify trends and patterns.
-
-Task 4: New Customer Insights
-Objective: Analyze the new customer dataset to provide insights into potential new customer behavior and value.
-
-
-Task 5: Executive Summary and Recommendations
-Objective: Summarize findings and provide actionable recommendations for business strategies.
